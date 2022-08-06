@@ -42,4 +42,4 @@ _5. Enter on your Terminal: npm start_
 
 _Now the project will run on your Localhost 3000_
 
-## PS: Attachments of the project can be found on client/public/challenge/finishedProject
+### PS: Attachments of the project can be found on client/public/challenge/finishedProject
