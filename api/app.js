@@ -1,6 +1,6 @@
 "use strict";
-
-const express = require("express");
+import express from "express";
+import products from "./productsRoutes.js";
 const app = express();
 const client = "http://localhost:3000";
 
@@ -15,4 +15,6 @@ app.use((req, res, next) => {
   next();
 });
 
-module.exports = app;
+app.use("/", products);
+
+export default app;
