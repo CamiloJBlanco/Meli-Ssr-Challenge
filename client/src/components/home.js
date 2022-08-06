@@ -1,4 +1,5 @@
 import React from 'react';
+import Loading from './loading';
 
 function Home() {
     return (
@@ -9,6 +10,7 @@ function Home() {
                     <small className="card-smalltitle">(Comience a buscar sus productos)</small>
                 </div>
             </div>
+            <Loading />
         </div>
     )
 }
