@@ -1,4 +1,4 @@
-import React from "react";
+import React from 'react';
 import '../assets/css/loading.scss';
 
 export default function Loading() {
