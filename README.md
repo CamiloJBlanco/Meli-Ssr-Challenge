@@ -34,10 +34,12 @@ _1. Open a new terminal_
 
 _2. Open the 'Meli-Ssr-Challenge' folder_
 
-_3. Enter on your Terminal: cd client
+_3. Enter on your Terminal: cd client_
 
 _4. Enter on your Terminal: npm install. By doing this you will install all the dependencies._
 
 _5. Enter on your Terminal: npm start_
 
 _Now the project will run on your Localhost 3000_
+
+### PS: Attachments of the project can be found on client/public/challenge/finishedProject
