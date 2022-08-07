@@ -1,7 +1,6 @@
 import React from 'react';
 import logoFreeShip from '../assets/images/ic_shipping.png';
 import '../assets/css/itemProductDetail.scss';
-// import FormatNumber from '../utils/FormatNumber';
 import formatNumber from './formatNumber';
 
 export default function ItemProductDetail({ items }) {
